@@ -1,0 +1,1 @@
+"use strict";for(var e=document.getElementById("fifty-shades"),t=50,a=0;a<t;a++){var o=Math.floor(256/t)*a,r=Math.floor(256/t)*a,d=Math.floor(256/t)*a,l="rgb("+o+","+r+","+d+")",s=document.createElement("div");s.className="shade",s.style.backgroundColor=l,e.appendChild(s)}
